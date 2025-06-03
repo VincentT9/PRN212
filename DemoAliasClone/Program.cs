@@ -35,5 +35,45 @@ Console.WriteLine("Tên của c2 = " + c2.Name);
 
 Customer c3 = new Customer();
 Customer c4 = c3;
-c3 = c1; 
+c3 = c1;
 // Không có thu hồi ô nhớ của c3 đang quản lý
+
+Product p1 = new Product { Id = 1, Name = "P1", Price = 10, Quantity = 20 };
+Product p2 = new Product { Id = 2, Name = "P2", Price = 15, Quantity = 22 };
+p1 = p2;
+Console.WriteLine("----Thông tin của P1----");
+Console.WriteLine(p1);
+Console.WriteLine("----Thông tin của P2----");
+Console.WriteLine(p2);
+
+p2.Name = "Thuốc trị hôi nách";
+p2.Quantity = 50;
+p2.Price = 100;
+
+Console.WriteLine("----Thông tin của P1----");
+Console.WriteLine(p1);
+
+Product p3 = new Product { Id = 3, Name = "P3", Price = 15, Quantity = 22 };
+
+Product p4 = new Product { Id = 4, Name = "P4", Price = 15, Quantity = 22 };
+
+Product p5 = p3;
+p3 = p4;
+//HĐH có thu hồi ô nhớ đã cấp phát cho p3 quản lý trước đó hay không vì sao? 
+// Không vì p5 đang quản lý p3 
+// nếu bổ sung:
+p5 = p3;
+// thì có thu hồi ô nhớ đã cấp phát cho p3hay không vì sao ?
+// Có vì trước đó p3 đã di chuyển qua p4, sau đó p5 trỏ qua p3 tức là 
+// đang trỏ qua tới p4 vậy nên p3 được thu hồi
+
+Product p6 = p4.Clone();
+//HĐH sẽ sao chép toàn bộ dữ liệu mà p4 đang quản lý qua 1 ô nhớ mới
+//và giao cho p6 quản lý ô nhớ mới này:
+//p4 và p6 quan lý 2 ô nhớ khác nhau hoàn toàn, nhưng có giá trị giống nhau
+//==> p6 dổi k ảnh hưởng gì đến p4, và ngược lại
+p4.Name = "Thuốc trị xàm";
+Console.WriteLine("----Thông tin của P4----");
+Console.WriteLine(p4);
+Console.WriteLine("----Thông tin của P6----");
+Console.WriteLine(p6);

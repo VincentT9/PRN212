@@ -1,0 +1,15 @@
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\DemoDeligate\bin\Debug\net9.0\DemoDelegate.exe
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\DemoDeligate\bin\Debug\net9.0\DemoDelegate.deps.json
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\DemoDeligate\bin\Debug\net9.0\DemoDelegate.runtimeconfig.json
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\DemoDeligate\bin\Debug\net9.0\DemoDelegate.dll
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\DemoDeligate\bin\Debug\net9.0\DemoDelegate.pdb
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\DemoDeligate\obj\Debug\net9.0\DemoDelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\DemoDeligate\obj\Debug\net9.0\DemoDelegate.AssemblyInfoInputs.cache
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\DemoDeligate\obj\Debug\net9.0\DemoDelegate.AssemblyInfo.cs
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\DemoDeligate\obj\Debug\net9.0\DemoDelegate.csproj.CoreCompileInputs.cache
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\DemoDeligate\obj\Debug\net9.0\DemoDelegate.sourcelink.json
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\DemoDeligate\obj\Debug\net9.0\DemoDelegate.dll
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\DemoDeligate\obj\Debug\net9.0\refint\DemoDelegate.dll
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\DemoDeligate\obj\Debug\net9.0\DemoDelegate.pdb
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\DemoDeligate\obj\Debug\net9.0\DemoDelegate.genruntimeconfig.cache
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\DemoDeligate\obj\Debug\net9.0\ref\DemoDelegate.dll
