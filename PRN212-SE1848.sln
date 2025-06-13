@@ -63,6 +63,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoLINQ2SQL", "DemoLINQ2SQ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lucy_SalesDataManagement", "Lucy_SalesDataManagement\Lucy_SalesDataManagement.csproj", "{CD07EC6A-F5CE-4B15-9E11-90A0D114BC02}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter 7", "Chapter 7", "{A68CB01B-B93E-4FA8-8635-19CDD8A3A65D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWpfApp", "HelloWpfApp\HelloWpfApp.csproj", "{886179F5-22B3-44DA-B1EB-75939A60BB30}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -181,6 +185,10 @@ Global
 		{CD07EC6A-F5CE-4B15-9E11-90A0D114BC02}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD07EC6A-F5CE-4B15-9E11-90A0D114BC02}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD07EC6A-F5CE-4B15-9E11-90A0D114BC02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{886179F5-22B3-44DA-B1EB-75939A60BB30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{886179F5-22B3-44DA-B1EB-75939A60BB30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{886179F5-22B3-44DA-B1EB-75939A60BB30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{886179F5-22B3-44DA-B1EB-75939A60BB30}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -197,6 +205,7 @@ Global
 		{5E1C59BB-B492-47A6-8C58-314BC678BB3F} = {6099BC6B-02A6-4EB9-A5B8-E7E1D1964D58}
 		{B90849BD-6967-49B0-B59F-CDB5EAD1B96C} = {6099BC6B-02A6-4EB9-A5B8-E7E1D1964D58}
 		{CD07EC6A-F5CE-4B15-9E11-90A0D114BC02} = {6099BC6B-02A6-4EB9-A5B8-E7E1D1964D58}
+		{886179F5-22B3-44DA-B1EB-75939A60BB30} = {A68CB01B-B93E-4FA8-8635-19CDD8A3A65D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6A422A82-53EE-4319-B321-9D1F1945D1F6}

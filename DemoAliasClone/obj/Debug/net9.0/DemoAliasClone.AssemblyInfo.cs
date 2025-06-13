@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DemoAliasClone")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8237ba11e9b124482d0e247a292da9422c1ce23d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16dec8b1e6abfcbfc59844ef087ed22fabc074b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("DemoAliasClone")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DemoAliasClone")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
