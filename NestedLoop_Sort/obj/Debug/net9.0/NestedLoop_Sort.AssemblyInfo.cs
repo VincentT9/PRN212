@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NestedLoop_Sort")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41465d5ea202b0af16cd6967e77901c2b5b03e2e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96d06e56efa85009cbd510c5de965d086b13684b")]
 [assembly: System.Reflection.AssemblyProductAttribute("NestedLoop_Sort")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NestedLoop_Sort")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
