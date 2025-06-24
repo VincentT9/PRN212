@@ -1,0 +1,16 @@
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\DataAccessLayer\bin\Debug\net9.0\DataAccessLayer.deps.json
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\DataAccessLayer\bin\Debug\net9.0\DataAccessLayer.dll
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\DataAccessLayer\bin\Debug\net9.0\DataAccessLayer.pdb
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\DataAccessLayer\bin\Debug\net9.0\BussinessObjects.dll
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\DataAccessLayer\bin\Debug\net9.0\BussinessObjects.pdb
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.AssemblyInfo.cs
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.sourcelink.json
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\DataAccessLayer\obj\Debug\net9.0\DataAcce.E67BD773.Up2Date
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.dll
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\DataAccessLayer\obj\Debug\net9.0\refint\DataAccessLayer.dll
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.pdb
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\DataAccessLayer\obj\Debug\net9.0\ref\DataAccessLayer.dll

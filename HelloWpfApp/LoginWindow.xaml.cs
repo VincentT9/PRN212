@@ -38,9 +38,9 @@ namespace HelloWpfApp
                 MainWindow mw = new MainWindow();
                 mw.Show();
                 //đóng cửa sổ đăng nhập
-                //Close();
+                Close();
                 //hoặc gọi
-                btnDangNhap.RaiseEvent(e);
+                //btnDangNhap.RaiseEvent(e);
             }
             else
             {

@@ -1,0 +1,39 @@
+﻿<Window x:Class="BaiTap_CheckBox.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Check Box Sự Kiện" Height="200" Width="300">
+    <StackPanel>
+        <Label>Bạn thích những gì?</Label>
+
+        <CheckBox Name="chkToanBo"
+                  Checked="ChkToanBo_Checked"
+                  Unchecked="ChkToanBo_Unchecked"
+                  Content="Thích toàn bộ hoạt động" />
+
+        <StackPanel Margin="20,0">
+            <CheckBox Name="chkCongNghe"
+                      Checked="chkSub_CheckedChange"
+                      Unchecked="chkSub_CheckedChange">
+                Thích nghiên cứu công nghệ
+            </CheckBox>
+
+            <CheckBox Name="chkXemPhim"
+                      Checked="chkSub_CheckedChange"
+                      Unchecked="chkSub_CheckedChange">
+                Thích xem phim
+            </CheckBox>
+
+            <CheckBox Name="chkDaBong"
+                      Checked="chkSub_CheckedChange"
+                      Unchecked="chkSub_CheckedChange">
+                Thích đá bóng
+            </CheckBox>
+
+            <CheckBox Name="chkDuLich"
+                      Checked="chkSub_CheckedChange"
+                      Unchecked="chkSub_CheckedChange">
+                Thích du lịch
+            </CheckBox>
+        </StackPanel>
+    </StackPanel>
+</Window>

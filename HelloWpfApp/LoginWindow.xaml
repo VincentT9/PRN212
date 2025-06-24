@@ -8,7 +8,9 @@
         Title="Đăng nhập hệ thống" Height="450" Width="800" WindowStartupLocation="CenterScreen">
     <Grid>
         <Label Content="Đăng nhập hệ thống quản trị" HorizontalAlignment="Left" Margin="180,74,0,0" VerticalAlignment="Top" RenderTransformOrigin="-3.583,-0.39" Background="{x:Null}" Foreground="#FF2BA033" FontWeight="Bold" FontSize="25"/>
-        <Label Content="Username:" HorizontalAlignment="Left" Margin="43,140,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Height="42" Width="131" FontSize="20" Background="White">
+        <Label Content="_Username:"
+               Target="{Binding ElementName=btnDangNhap}"
+               HorizontalAlignment="Left" Margin="43,140,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Height="42" Width="131" FontSize="20" Background="White">
             <Label.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform/>
@@ -28,7 +30,9 @@
                 </TransformGroup>
             </TextBox.RenderTransform>
         </TextBox>
-        <Label Content="Password:" HorizontalAlignment="Left" Margin="49,205,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Height="41" Width="125" FontSize="20">
+        <Label Content="_Password:" 
+               Target="{Binding ElementName=txtPassword}"
+               HorizontalAlignment="Left" Margin="49,205,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Height="41" Width="125" FontSize="20">
             <Label.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform/>
