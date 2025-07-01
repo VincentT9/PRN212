@@ -1,0 +1,21 @@
+﻿<Window x:Class="MyStoreWpfApp_EntityFrameWork.AdminWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MyStoreWpfApp_EntityFrameWork"
+        mc:Ignorable="d"
+        Title="AdminWindow" Height="450" Width="800">
+    <DockPanel>
+        <StackPanel DockPanel.Dock="Top" Background="Yellow" Height="50">
+            <Label Content="Quản trị MyStore" FontSize="30" />
+        </StackPanel>
+        <StackPanel DockPanel.Dock="Bottom" Background="Magenta" Height="50">
+            <Label Content="Được thiết kế bởi: Lý Thanh Trần" FontSize="15" />
+        </StackPanel>
+        <TreeView x:Name="tvCategory" FontSize="20" DockPanel.Dock="Left" Background="Cyan" Width="300">
+            
+        </TreeView>
+        <DockPanel Background="Red"></DockPanel>
+    </DockPanel>
+</Window>

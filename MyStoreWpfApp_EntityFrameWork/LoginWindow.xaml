@@ -18,11 +18,20 @@
         </Label>
         <Label Content="Email: " FontSize="20" HorizontalAlignment="Left" Margin="140,142,0,0" VerticalAlignment="Top"/>
         <TextBox x:Name="txtEmail" FontSize="20"
-            HorizontalAlignment="Left" Margin="214,146,0,0" TextWrapping="Wrap" Text="admin@CompanyName.com" VerticalAlignment="Top" Width="299"/>
+            HorizontalAlignment="Left" Margin="214,146,0,0" TextWrapping="Wrap" Text="admin@CompanyName.com" VerticalAlignment="Top" Width="455"/>
         <Label Content="Password: " FontSize="20" HorizontalAlignment="Left" Margin="105,0,0,0" VerticalAlignment="Center"/>
-        <PasswordBox x:Name="txtPassword" FontSize="20" HorizontalAlignment="Left" Margin="214,0,0,0" VerticalAlignment="Center" Width="299" Password="@1"/>
-        <Button x:Name="btnDangNhap" Content="Đăng nhập" FontSize="20" HorizontalAlignment="Left" Margin="402,296,0,0" VerticalAlignment="Top" Height="40" Width="111"/>
-        <Button x:Name="btnThoat" Content="Thoát" FontSize="20" HorizontalAlignment="Left" Margin="214,296,0,0" VerticalAlignment="Top" Width="114" Height="40"/>
+        <PasswordBox x:Name="txtPassword" FontSize="20" HorizontalAlignment="Left" Margin="214,0,0,0" VerticalAlignment="Center" Width="455" Password="@1" RenderTransformOrigin="0.5,0.5">
+            <PasswordBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.358"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </PasswordBox.RenderTransform>
+        </PasswordBox>
+        <Button x:Name="btnDangNhap" Content="Đăng nhập" FontSize="20" HorizontalAlignment="Left" Margin="431,296,0,0" VerticalAlignment="Top" Height="40" Width="111" RenderTransformOrigin="0.234,0.501" Click="btnDangNhap_Click"/>
+        <Button x:Name="btnThoat" Content="Thoát" FontSize="20" HorizontalAlignment="Left" Margin="258,296,0,0" VerticalAlignment="Top" Width="114" Height="40"/>
 
     </Grid>
 </Window>
