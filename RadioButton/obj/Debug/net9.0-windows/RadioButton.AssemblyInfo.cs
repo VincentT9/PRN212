@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RadioButton")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96d06e56efa85009cbd510c5de965d086b13684b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8c17e0b2e27c7e9a7c8db77fa22d9292cca83f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("RadioButton")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RadioButton")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
