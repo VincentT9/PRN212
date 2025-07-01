@@ -13,9 +13,21 @@
         <StackPanel DockPanel.Dock="Bottom" Background="Magenta" Height="50">
             <Label Content="Được thiết kế bởi: Lý Thanh Trần" FontSize="15" />
         </StackPanel>
-        <TreeView x:Name="tvCategory" FontSize="20" DockPanel.Dock="Left" Background="Cyan" Width="300">
+        <TreeView x:Name="tvCategory" FontSize="20" DockPanel.Dock="Left" Background="Cyan" Width="300" SelectedItemChanged="tvCategory_SelectedItemChanged">
             
         </TreeView>
-        <DockPanel Background="Red"></DockPanel>
+        <DockPanel Background="Red">
+            <ListView x:Name="lvProduct" DockPanel.Dock="Top"  Height="200" Grid.ColumnSpan="2" FontSize="22">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="Mã sản phẩm" DisplayMemberBinding="{Binding ProductId}"/>
+                        <GridViewColumn Header="Tên sản phẩm" DisplayMemberBinding="{Binding ProductName}" />
+                        <GridViewColumn Header="Số lượng" DisplayMemberBinding="{Binding UnitsInStock}"/>
+                        <GridViewColumn Header="Đơn giá" DisplayMemberBinding="{Binding UnitPrice}"/>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+            <Grid Background="Yellow"></Grid>
+        </DockPanel>
     </DockPanel>
 </Window>
