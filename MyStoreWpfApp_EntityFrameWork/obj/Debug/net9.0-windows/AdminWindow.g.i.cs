@@ -69,7 +69,7 @@ namespace MyStoreWpfApp_EntityFrameWork {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/MyStoreWpfApp_EntityFrameWork;component/adminwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/MyStoreWpfApp_EntityFrameWork;V1.0.0.0;component/adminwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\AdminWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

@@ -1,19 +1,19 @@
-﻿MyStoreWpfApp_EntityFrameWork
+﻿MyStoreWpfApp_EntityFramework
 
 
 winexe
 C#
 .cs
-D:\FPTCN5\PRN212\Code\PRN212-SE1848\MyStoreWpfApp_EntityFrameWork\obj\Debug\net9.0-windows\
-MyStoreWpfApp_EntityFrameWork
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\MyStoreWpfApp_EntityFramework\obj\Debug\net9.0-windows\
+MyStoreWpfApp_EntityFramework
 none
 false
-TRACE;DEBUG;NET;NET9_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NET9_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
-D:\FPTCN5\PRN212\Code\PRN212-SE1848\MyStoreWpfApp_EntityFrameWork\App.xaml
+TRACE;DEBUG;NET;NET9_0;NETCOREAPP
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\MyStoreWpfApp_EntityFramework\App.xaml
 3-1107111578
 
-10405217454
-229-507555771
+10-1084680936
+229-1094515220
 AdminWindow.xaml;LoginWindow.xaml;MainWindow.xaml;
 
 False

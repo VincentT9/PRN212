@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace MyStoreWpfApp_EntityFrameWork.Models;
+namespace MyStoreWpfApp_EntityFramework.Models;
 
 public partial class AccountMember
 {

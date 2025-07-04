@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyStoreWpfApp_EntityFrameWork")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93ea5e20ed623116c0601db6ced6b761e87c23ba")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49063c56a86d0ad259ac73198b7e054e46ccdf74")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyStoreWpfApp_EntityFrameWork")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyStoreWpfApp_EntityFrameWork")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
