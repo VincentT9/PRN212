@@ -8,4 +8,9 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BusinessObjects_EF\BusinessObjects_EF.csproj" />
+    <ProjectReference Include="..\Services_EF\Services_EF.csproj" />
+  </ItemGroup>
+
 </Project>

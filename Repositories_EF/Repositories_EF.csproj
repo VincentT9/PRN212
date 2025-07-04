@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BusinessObjects_EF\BusinessObjects_EF.csproj" />
+    <ProjectReference Include="..\DataAccessLayer_EF\DataAccessLayer_EF.csproj" />
+  </ItemGroup>
+
 </Project>
